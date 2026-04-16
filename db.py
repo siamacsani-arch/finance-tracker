@@ -11,13 +11,13 @@ DB_PATH = BASE / "transactions.db"
 
 BUDGETS_DEFAULT = {
     "Work": 3100, "Clients": 200, "Tax Return": 0, "Friends": 0,
-    "Rent": 3075, "Groceries": 300, "Subway": 80, "Findom": 200,
+    "Rent": 3075, "Groceries": 300, "Subway": 80, "Transfers": 200,
     "Fast Food": 80, "DoorDash": 100, "Furniture": 50, "Clothes": 100,
     "Bars": 100, "Movies": 50, "Dates": 300, "Video Games": 20,
-    "Nicotine": 40, "Drugs": 50, "Eventus": 100, "Streaming": 20,
+    "Personal": 100, "Eventus": 100, "Streaming": 20,
     "Student Loans": 324, "Uber": 50, "Coffee": 30, "Celcius": 20,
-    "Weed": 60, "Internet": 50, "Entertainment": 50, "Laundry": 20,
-    "Amazon": 100, "Dating Apps": 30, "AI": 50, "Haircut": 50,
+    "Internet": 50, "Entertainment": 50, "Laundry": 20,
+    "Amazon": 100, "Social": 30, "AI": 50, "Haircut": 50,
     "Eyebrows": 15, "Handyman": 50, "Toys": 50, "Misc.": 30,
     "Clubs": 50, "Shows": 50, "Tax Guy": 0, "Gas": 50, "Tax Returns": 0,
     "Health": 50, "Temu": 50, "Business": 150,

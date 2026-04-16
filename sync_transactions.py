@@ -146,10 +146,10 @@ CATEGORY_MAP = [
     ("STUBHUB",         "Shows"),
     ("EVENTBRITE",      "Shows"),
     # Dating apps
-    ("HINGE",           "Dating Apps"),
-    ("TINDER",          "Dating Apps"),
-    ("BUMBLE",          "Dating Apps"),
-    ("MATCH.COM",       "Dating Apps"),
+    ("HINGE",           "Social"),
+    ("TINDER",          "Social"),
+    ("BUMBLE",          "Social"),
+    ("MATCH.COM",       "Social"),
     # Student loans
     ("NAVIENT",         "Student Loans"),
     ("MOHELA",          "Student Loans"),
@@ -161,14 +161,13 @@ CATEGORY_MAP = [
     ("VERIZON",         "Internet"),
     ("AT&T",            "Internet"),
     ("XFINITY",         "Internet"),
-    # Nicotine
-    ("VAPE",            "Nicotine"),
-    ("JUUL",            "Nicotine"),
-    ("TOBACCO",         "Nicotine"),
-    # Weed
-    ("DISPENSARY",      "Weed"),
-    ("CANNABIS",        "Weed"),
-    ("STIIIZY",         "Weed"),
+    # Personal
+    ("VAPE",            "Personal"),
+    ("JUUL",            "Personal"),
+    ("TOBACCO",         "Personal"),
+    ("DISPENSARY",      "Personal"),
+    ("CANNABIS",        "Personal"),
+    ("STIIIZY",         "Personal"),
     # Bars / clubs
     ("BAR ",            "Bars"),
     ("TAVERN",          "Bars"),
@@ -209,14 +208,14 @@ CATEGORY_MAP = [
     ("ZEGO",            "Rent"),
     # Tax
     ("TAX",             "Tax Guy"),
-    # Findom payments
-    ("AMAZON RETAIL",   "Findom"),
-    ("PAYPAL",          "Findom"),
-    ("APPLE CASH",      "Findom"),
-    ("APPLE PAY",       "Findom"),
-    ("VENMO",           "Findom"),
-    ("CASH APP",        "Findom"),
-    ("CASHAPP",         "Findom"),
+    # Transfers / P2P payments
+    ("AMAZON RETAIL",   "Transfers"),
+    ("PAYPAL",          "Transfers"),
+    ("APPLE CASH",      "Transfers"),
+    ("APPLE PAY",       "Transfers"),
+    ("VENMO",           "Transfers"),
+    ("CASH APP",        "Transfers"),
+    ("CASHAPP",         "Transfers"),
 ]
 
 def log(msg):
